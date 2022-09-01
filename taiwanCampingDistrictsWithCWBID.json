@@ -1,0 +1,1679 @@
+[
+    {
+        "districts": [
+            {
+                "cwbIndex": "0000",
+                "name": "不限地區"
+            }
+        ],
+        "name": "台灣"
+    },
+    {
+        "districts": [
+            {
+                "cwbIndex": "0000",
+                "name": "基隆市全區"
+            },
+            {
+                "cwbIndex": "1001704",
+                "name": "仁愛區"
+            },
+            {
+                "cwbIndex": "1001707",
+                "name": "信義區"
+            },
+            {
+                "cwbIndex": "1001701",
+                "name": "中正區"
+            },
+            {
+                "cwbIndex": "1001705",
+                "name": "中山區"
+            },
+            {
+                "cwbIndex": "1001706",
+                "name": "安樂區"
+            },
+            {
+                "cwbIndex": "1001703",
+                "name": "暖暖區"
+            },
+            {
+                "cwbIndex": "1001702",
+                "name": "七堵區"
+            }
+        ],
+        "name": "基隆市"
+    },
+    {
+        "districts": [
+            {
+                "cwbIndex": "0000",
+                "name": "台北市全區"
+            },
+            {
+                       "cwbIndex": "6300500",
+                       "name": "中正區"
+               },
+               {
+                       "cwbIndex": "6300600",
+                       "name": "大同區"
+               },
+               {
+                       "cwbIndex": "6300400",
+                       "name": "中山區"
+               },
+               {
+                       "cwbIndex": "6300100",
+                       "name": "松山區"
+               },
+               {
+                       "cwbIndex": "6300300",
+                       "name": "大安區"
+               },
+               {
+                       "cwbIndex": "6300700",
+                       "name": "萬華區"
+               },
+               {
+                       "cwbIndex": "6300200",
+                       "name": "信義區"
+               },
+               {
+                       "cwbIndex": "6301100",
+                       "name": "士林區"
+               },
+               {
+                       "cwbIndex": "6301200",
+                       "name": "北投區"
+               },
+               {
+                       "cwbIndex": "6301000",
+                       "name": "內湖區"
+               },
+               {
+                       "cwbIndex": "6300900",
+                       "name": "南港區"
+               },
+               {
+                       "cwbIndex": "6300800",
+                       "name": "文山區"
+               }
+        ],
+        "name": "台北市"
+    },
+    {
+        "districts": [
+            {
+                "cwbIndex": "0000",
+                "name": "新北市全區"
+            },
+            {
+                       "cwbIndex": "6502800",
+                       "name": "萬里區"
+               },
+               {
+                       "cwbIndex": "6502700",
+                       "name": "金山區"
+               },
+               {
+                       "cwbIndex": "6500100",
+                       "name": "板橋區"
+               },
+               {
+                       "cwbIndex": "6501100",
+                       "name": "汐止區"
+               },
+               {
+                       "cwbIndex": "6501800",
+                       "name": "深坑區"
+               },
+               {
+                       "cwbIndex": "6501900",
+                       "name": "石碇區"
+               },
+               {
+                       "cwbIndex": "6501200",
+                       "name": "瑞芳區"
+               },
+               {
+                       "cwbIndex": "6502400",
+                       "name": "平溪區"
+               },
+               {
+                       "cwbIndex": "6502500",
+                       "name": "雙溪區"
+               },
+               {
+                       "cwbIndex": "6502600",
+                       "name": "貢寮區"
+               },
+               {
+                       "cwbIndex": "6500600",
+                       "name": "新店區"
+               },
+               {
+                       "cwbIndex": "6502000",
+                       "name": "坪林區"
+               },
+               {
+                       "cwbIndex": "6502900",
+                       "name": "烏來區"
+               },
+               {
+                       "cwbIndex": "6500400",
+                       "name": "永和區"
+               },
+               {
+                       "cwbIndex": "6500300",
+                       "name": "中和區"
+               },
+               {
+                       "cwbIndex": "6501300",
+                       "name": "土城區"
+               },
+               {
+                       "cwbIndex": "6500900",
+                       "name": "三峽區"
+               },
+               {
+                       "cwbIndex": "6500700",
+                       "name": "樹林區"
+               },
+               {
+                       "cwbIndex": "6500800",
+                       "name": "鶯歌區"
+               },
+               {
+                       "cwbIndex": "6500200",
+                       "name": "三重區"
+               },
+               {
+                       "cwbIndex": "6500500",
+                       "name": "新莊區"
+               },
+               {
+                       "cwbIndex": "6501600",
+                       "name": "泰山區"
+               },
+               {
+                       "cwbIndex": "6501700",
+                       "name": "林口區"
+               },
+               {
+                       "cwbIndex": "6501400",
+                       "name": "蘆洲區"
+               },
+               {
+                       "cwbIndex": "6501500",
+                       "name": "五股區"
+               },
+               {
+                       "cwbIndex": "6502300",
+                       "name": "八里區"
+               },
+               {
+                       "cwbIndex": "6501000",
+                       "name": "淡水區"
+               },
+               {
+                       "cwbIndex": "6502100",
+                       "name": "三芝區"
+               },
+               {
+                       "cwbIndex": "6502200",
+                       "name": "石門區"
+               }
+        ],
+        "name": "新北市"
+    },
+    {
+        "districts": [
+            {
+                "cwbIndex": "0000",
+                "name": "桃園市全區"
+            },
+            {
+                       "cwbIndex": "6800200",
+                       "name": "中壢區"
+               },
+               {
+                       "cwbIndex": "6801000",
+                       "name": "平鎮區"
+               },
+               {
+                       "cwbIndex": "6800900",
+                       "name": "龍潭區"
+               },
+               {
+                       "cwbIndex": "6800400",
+                       "name": "楊梅區"
+               },
+               {
+                       "cwbIndex": "6801100",
+                       "name": "新屋區"
+               },
+               {
+                       "cwbIndex": "6801200",
+                       "name": "觀音區"
+               },
+               {
+                       "cwbIndex": "6800100",
+                       "name": "桃園區"
+               },
+               {
+                       "cwbIndex": "6800700",
+                       "name": "龜山區"
+               },
+               {
+                       "cwbIndex": "6800800",
+                       "name": "八德區"
+               },
+               {
+                       "cwbIndex": "6800300",
+                       "name": "大溪區"
+               },
+               {
+                       "cwbIndex": "6801300",
+                       "name": "復興區"
+               },
+               {
+                       "cwbIndex": "6800600",
+                       "name": "大園區"
+               },
+               {
+                       "cwbIndex": "6800500",
+                       "name": "蘆竹區"
+               }
+        ],
+        "name": "桃園市"
+    },
+    {
+        "districts": [
+            {
+                "cwbIndex": "0000",
+                "name": "新竹市全區"
+            },
+            {
+                        "cwbIndex": "1001801",
+                        "name": "東區"
+                },
+                {
+                        "cwbIndex": "1001802",
+                        "name": "北區"
+                },
+                {
+                        "cwbIndex": "1001803",
+                        "name": "香山區"
+                }
+        ],
+        "name": "新竹市"
+    },
+    {
+        "districts": [
+            {
+                "cwbIndex": "0000",
+                "name": "新竹縣全區"
+            },
+            {
+                       "cwbIndex": "1000410",
+                       "name": "寶山鄉"
+               },
+               {
+                       "cwbIndex": "1000401",
+                       "name": "竹北市"
+               },
+               {
+                       "cwbIndex": "1000405",
+                       "name": "湖口鄉"
+               },
+               {
+                       "cwbIndex": "1000406",
+                       "name": "新豐鄉"
+               },
+               {
+                       "cwbIndex": "1000403",
+                       "name": "新埔鎮"
+               },
+               {
+                       "cwbIndex": "1000404",
+                       "name": "關西鎮"
+               },
+               {
+                       "cwbIndex": "1000407",
+                       "name": "芎林鄉"
+               },
+               {
+                       "cwbIndex": "1000402",
+                       "name": "竹東鎮"
+               },
+               {
+                       "cwbIndex": "1000413",
+                       "name": "五峰鄉"
+               },
+               {
+                       "cwbIndex": "1000408",
+                       "name": "橫山鄉"
+               },
+               {
+                       "cwbIndex": "1000412",
+                       "name": "尖石鄉"
+               },
+               {
+                       "cwbIndex": "1000409",
+                       "name": "北埔鄉"
+               },
+               {
+                       "cwbIndex": "1000411",
+                       "name": "峨眉鄉"
+               }
+        ],
+        "name": "新竹縣"
+    },
+    {
+        "districts": [
+            {
+                "cwbIndex": "0000",
+                "name": "苗栗縣全區"
+            },
+            {
+                        "cwbIndex": "1000504",
+                        "name": "竹南鎮"
+                },
+                {
+                        "cwbIndex": "1000505",
+                        "name": "頭份市"
+                },
+                {
+                        "cwbIndex": "1000516",
+                        "name": "三灣鄉"
+                },
+                {
+                        "cwbIndex": "1000511",
+                        "name": "南庄鄉"
+                },
+                {
+                        "cwbIndex": "1000517",
+                        "name": "獅潭鄉"
+                },
+                {
+                        "cwbIndex": "1000506",
+                        "name": "後龍鎮"
+                },
+                {
+                        "cwbIndex": "1000503",
+                        "name": "通霄鎮"
+                },
+                {
+                        "cwbIndex": "1000502",
+                        "name": "苑裡鎮"
+                },
+                {
+                        "cwbIndex": "1000501",
+                        "name": "苗栗市"
+                },
+                {
+                        "cwbIndex": "1000515",
+                        "name": "造橋鄉"
+                },
+                {
+                        "cwbIndex": "1000512",
+                        "name": "頭屋鄉"
+                },
+                {
+                        "cwbIndex": "1000509",
+                        "name": "公館鄉"
+                },
+                {
+                        "cwbIndex": "1000508",
+                        "name": "大湖鄉"
+                },
+                {
+                        "cwbIndex": "1000518",
+                        "name": "泰安鄉"
+                },
+                {
+                        "cwbIndex": "1000510",
+                        "name": "銅鑼鄉"
+                },
+                {
+                        "cwbIndex": "1000513",
+                        "name": "三義鄉"
+                },
+                {
+                        "cwbIndex": "1000514",
+                        "name": "西湖鄉"
+                },
+                {
+                        "cwbIndex": "1000507",
+                        "name": "卓蘭鎮"
+                }
+
+        ],
+        "name": "苗栗縣"
+    },
+    {
+        "districts": [
+            {
+                "cwbIndex": "0000",
+                "name": "台中市全區"
+            },
+            {
+                        "cwbIndex": "6600100",
+                        "name": "中區"
+                },
+                {
+                        "cwbIndex": "6600200",
+                        "name": "東區"
+                },
+                {
+                        "cwbIndex": "6600300",
+                        "name": "南區"
+                },
+                {
+                        "cwbIndex": "6600400",
+                        "name": "西區"
+                },
+                {
+                        "cwbIndex": "6600500",
+                        "name": "北區"
+                },
+                {
+                        "cwbIndex": "6600800",
+                        "name": "北屯區"
+                },
+                {
+                        "cwbIndex": "6600600",
+                        "name": "西屯區"
+                },
+                {
+                        "cwbIndex": "6600700",
+                        "name": "南屯區"
+                },
+                {
+                        "cwbIndex": "6602700",
+                        "name": "太平區"
+                },
+                {
+                        "cwbIndex": "6602800",
+                        "name": "大里區"
+                },
+                {
+                        "cwbIndex": "6602600",
+                        "name": "霧峰區"
+                },
+                {
+                        "cwbIndex": "6602300",
+                        "name": "烏日區"
+                },
+                {
+                        "cwbIndex": "6600900",
+                        "name": "豐原區"
+                },
+                {
+                        "cwbIndex": "6601500",
+                        "name": "后里區"
+                },
+                {
+                        "cwbIndex": "6602000",
+                        "name": "石岡區"
+                },
+                {
+                        "cwbIndex": "6601000",
+                        "name": "東勢區"
+                },
+                {
+                        "cwbIndex": "6602900",
+                        "name": "和平區"
+                },
+                {
+                        "cwbIndex": "6601900",
+                        "name": "新社區"
+                },
+                {
+                        "cwbIndex": "6601700",
+                        "name": "潭子區"
+                },
+                {
+                        "cwbIndex": "6601800",
+                        "name": "大雅區"
+                },
+                {
+                        "cwbIndex": "6601600",
+                        "name": "神岡區"
+                },
+                {
+                        "cwbIndex": "6602400",
+                        "name": "大肚區"
+                },
+                {
+                        "cwbIndex": "6601300",
+                        "name": "沙鹿區"
+                },
+                {
+                        "cwbIndex": "6602500",
+                        "name": "龍井區"
+                },
+                {
+                        "cwbIndex": "6601400",
+                        "name": "梧棲區"
+                },
+                {
+                        "cwbIndex": "6601200",
+                        "name": "清水區"
+                },
+                {
+                        "cwbIndex": "6601100",
+                        "name": "大甲區"
+                },
+                {
+                        "cwbIndex": "6602100",
+                        "name": "外埔區"
+                },
+                {
+                        "cwbIndex": "6602200",
+                        "name": "大安區"
+                }
+        ],
+        "name": "台中市"
+    },
+    {
+        "districts": [
+            {
+                "cwbIndex": "0000",
+                "name": "彰化縣全區"
+            },
+            {
+                       "cwbIndex": "1000701",
+                       "name": "彰化市"
+               },
+               {
+                       "cwbIndex": "1000709",
+                       "name": "芬園鄉"
+               },
+               {
+                       "cwbIndex": "1000708",
+                       "name": "花壇鄉"
+               },
+               {
+                       "cwbIndex": "1000707",
+                       "name": "秀水鄉"
+               },
+               {
+                       "cwbIndex": "1000702",
+                       "name": "鹿港鎮"
+               },
+               {
+                       "cwbIndex": "1000706",
+                       "name": "福興鄉"
+               },
+               {
+                       "cwbIndex": "1000704",
+                       "name": "線西鄉"
+               },
+               {
+                       "cwbIndex": "1000703",
+                       "name": "和美鎮"
+               },
+               {
+                       "cwbIndex": "1000705",
+                       "name": "伸港鄉"
+               },
+               {
+                       "cwbIndex": "1000710",
+                       "name": "員林市"
+               },
+               {
+                       "cwbIndex": "1000717",
+                       "name": "社頭鄉"
+               },
+               {
+                       "cwbIndex": "1000716",
+                       "name": "永靖鄉"
+               },
+               {
+                       "cwbIndex": "1000715",
+                       "name": "埔心鄉"
+               },
+               {
+                       "cwbIndex": "1000711",
+                       "name": "溪湖鎮"
+               },
+               {
+                       "cwbIndex": "1000713",
+                       "name": "大村鄉"
+               },
+               {
+                       "cwbIndex": "1000714",
+                       "name": "埔鹽鄉"
+               },
+               {
+                       "cwbIndex": "1000712",
+                       "name": "田中鎮"
+               },
+               {
+                       "cwbIndex": "1000719",
+                       "name": "北斗鎮"
+               },
+               {
+                       "cwbIndex": "1000721",
+                       "name": "田尾鄉"
+               },
+               {
+                       "cwbIndex": "1000722",
+                       "name": "埤頭鄉"
+               },
+               {
+                       "cwbIndex": "1000726",
+                       "name": "溪州鄉"
+               },
+               {
+                       "cwbIndex": "1000725",
+                       "name": "竹塘鄉"
+               },
+               {
+                       "cwbIndex": "1000720",
+                       "name": "二林鎮"
+               },
+               {
+                       "cwbIndex": "1000724",
+                       "name": "大城鄉"
+               },
+               {
+                       "cwbIndex": "1000723",
+                       "name": "芳苑鄉"
+               },
+               {
+                       "cwbIndex": "1000718",
+                       "name": "二水鄉"
+               }
+        ],
+        "name": "彰化縣"
+    },
+    {
+        "districts": [
+            {
+                       "cwbIndex": "1000801",
+                       "name": "南投市"
+               },
+               {
+                       "cwbIndex": "1000808",
+                       "name": "中寮鄉"
+               },
+               {
+                       "cwbIndex": "1000803",
+                       "name": "草屯鎮"
+               },
+               {
+                       "cwbIndex": "1000810",
+                       "name": "國姓鄉"
+               },
+               {
+                       "cwbIndex": "1000802",
+                       "name": "埔里鎮"
+               },
+               {
+                       "cwbIndex": "1000813",
+                       "name": "仁愛鄉"
+               },
+               {
+                       "cwbIndex": "1000806",
+                       "name": "名間鄉"
+               },
+               {
+                       "cwbIndex": "1000805",
+                       "name": "集集鎮"
+               },
+               {
+                       "cwbIndex": "1000811",
+                       "name": "水里鄉"
+               },
+               {
+                       "cwbIndex": "1000809",
+                       "name": "魚池鄉"
+               },
+               {
+                       "cwbIndex": "1000812",
+                       "name": "信義鄉"
+               },
+               {
+                       "cwbIndex": "1000804",
+                       "name": "竹山鎮"
+               },
+               {
+                       "cwbIndex": "1000807",
+                       "name": "鹿谷鄉"
+               }
+        ],
+        "name": "南投縣"
+    },
+    {
+        "districts": [
+            {
+                "cwbIndex": "0000",
+                "name": "雲林縣全區"
+            },
+            {
+                        "cwbIndex": "1000902",
+                        "name": "斗南鎮"
+                },
+                {
+                        "cwbIndex": "1000908",
+                        "name": "大埤鄉"
+                },
+                {
+                        "cwbIndex": "1000903",
+                        "name": "虎尾鎮"
+                },
+                {
+                        "cwbIndex": "1000905",
+                        "name": "土庫鎮"
+                },
+                {
+                        "cwbIndex": "1000915",
+                        "name": "褒忠鄉"
+                },
+                {
+                        "cwbIndex": "1000914",
+                        "name": "東勢鄉"
+                },
+                {
+                        "cwbIndex": "1000916",
+                        "name": "台西鄉"
+                },
+                {
+                        "cwbIndex": "1000912",
+                        "name": "崙背鄉"
+                },
+                {
+                        "cwbIndex": "1000913",
+                        "name": "麥寮鄉"
+                },
+                {
+                        "cwbIndex": "1000901",
+                        "name": "斗六市"
+                },
+                {
+                        "cwbIndex": "1000910",
+                        "name": "林內鄉"
+                },
+                {
+                        "cwbIndex": "1000907",
+                        "name": "古坑鄉"
+                },
+                {
+                        "cwbIndex": "1000909",
+                        "name": "莿桐鄉"
+                },
+                {
+                        "cwbIndex": "1000904",
+                        "name": "西螺鎮"
+                },
+                {
+                        "cwbIndex": "1000911",
+                        "name": "二崙鄉"
+                },
+                {
+                        "cwbIndex": "1000906",
+                        "name": "北港鎮"
+                },
+                {
+                        "cwbIndex": "1000920",
+                        "name": "水林鄉"
+                },
+                {
+                        "cwbIndex": "1000919",
+                        "name": "口湖鄉"
+                },
+                {
+                        "cwbIndex": "1000918",
+                        "name": "四湖鄉"
+                },
+                {
+                        "cwbIndex": "1000917",
+                        "name": "元長鄉"
+                }
+        ],
+        "name": "雲林縣"
+    },
+    {
+        "districts": [
+            {
+                "cwbIndex": "0000",
+                "name": "嘉義市全區"
+            },
+            {
+                       "cwbIndex": "1002002",
+                       "name": "西區"
+               },
+               {
+                       "cwbIndex": "1002001",
+                       "name": "東區"
+               }
+        ],
+        "name": "嘉義市"
+    },
+    {
+        "districts": [
+            {
+                "cwbIndex": "0000",
+                "name": "嘉義縣全區"
+            },
+            {
+                       "cwbIndex": "1001016",
+                       "name": "番路鄉"
+               },
+               {
+                       "cwbIndex": "1001015",
+                       "name": "梅山鄉"
+               },
+               {
+                       "cwbIndex": "1001014",
+                       "name": "竹崎鄉"
+               },
+               {
+                       "cwbIndex": "1001018",
+                       "name": "阿里山鄉"
+               },
+               {
+                       "cwbIndex": "1001013",
+                       "name": "中埔鄉"
+               },
+               {
+                       "cwbIndex": "1001017",
+                       "name": "大埔鄉"
+               },
+               {
+                       "cwbIndex": "1001012",
+                       "name": "水上鄉"
+               },
+               {
+                       "cwbIndex": "1001011",
+                       "name": "鹿草鄉"
+               },
+               {
+                       "cwbIndex": "1001001",
+                       "name": "太保市"
+               },
+               {
+                       "cwbIndex": "1001002",
+                       "name": "朴子市"
+               },
+               {
+                       "cwbIndex": "1001009",
+                       "name": "東石鄉"
+               },
+               {
+                       "cwbIndex": "1001008",
+                       "name": "六腳鄉"
+               },
+               {
+                       "cwbIndex": "1001007",
+                       "name": "新港鄉"
+               },
+               {
+                       "cwbIndex": "1001005",
+                       "name": "民雄鄉"
+               },
+               {
+                       "cwbIndex": "1001004",
+                       "name": "大林鎮"
+               },
+               {
+                       "cwbIndex": "1001006",
+                       "name": "溪口鄉"
+               },
+               {
+                       "cwbIndex": "1001010",
+                       "name": "義竹鄉"
+               },
+               {
+                       "cwbIndex": "1001003",
+                       "name": "布袋鎮"
+               }
+        ],
+        "name": "嘉義縣"
+    },
+    {
+        "districts": [
+            {
+                "cwbIndex": "0000",
+                "name": "台南市全區"
+            },
+            {
+                        "cwbIndex": "6703700",
+                        "name": "中西區"
+                },
+                {
+                        "cwbIndex": "6703200",
+                        "name": "東區"
+                },
+                {
+                        "cwbIndex": "6703300",
+                        "name": "南區"
+                },
+                {
+                        "cwbIndex": "6703400",
+                        "name": "北區"
+                },
+                {
+                        "cwbIndex": "6703600",
+                        "name": "安平區"
+                },
+                {
+                        "cwbIndex": "6703500",
+                        "name": "安南區"
+                },
+                {
+                        "cwbIndex": "6703100",
+                        "name": "永康區"
+                },
+                {
+                        "cwbIndex": "6702800",
+                        "name": "歸仁區"
+                },
+                {
+                        "cwbIndex": "6701800",
+                        "name": "新化區"
+                },
+                {
+                        "cwbIndex": "6702600",
+                        "name": "左鎮區"
+                },
+                {
+                        "cwbIndex": "6702300",
+                        "name": "玉井區"
+                },
+                {
+                        "cwbIndex": "6702400",
+                        "name": "楠西區"
+                },
+                {
+                        "cwbIndex": "6702500",
+                        "name": "南化區"
+                },
+                {
+                        "cwbIndex": "6702700",
+                        "name": "仁德區"
+                },
+                {
+                        "cwbIndex": "6702900",
+                        "name": "關廟區"
+                },
+                {
+                        "cwbIndex": "6703000",
+                        "name": "龍崎區"
+                },
+                {
+                        "cwbIndex": "6701000",
+                        "name": "官田區"
+                },
+                {
+                        "cwbIndex": "6700700",
+                        "name": "麻豆區"
+                },
+                {
+                        "cwbIndex": "6701200",
+                        "name": "佳里區"
+                },
+                {
+                        "cwbIndex": "6701400",
+                        "name": "西港區"
+                },
+                {
+                        "cwbIndex": "6701500",
+                        "name": "七股區"
+                },
+                {
+                        "cwbIndex": "6701600",
+                        "name": "將軍區"
+                },
+                {
+                        "cwbIndex": "6701300",
+                        "name": "學甲區"
+                },
+                {
+                        "cwbIndex": "6701700",
+                        "name": "北門區"
+                },
+                {
+                        "cwbIndex": "6700100",
+                        "name": "新營區"
+                },
+                {
+                        "cwbIndex": "6700500",
+                        "name": "後壁區"
+                },
+                {
+                        "cwbIndex": "6700300",
+                        "name": "白河區"
+                },
+                {
+                        "cwbIndex": "6700600",
+                        "name": "東山區"
+                },
+                {
+                        "cwbIndex": "6700900",
+                        "name": "六甲區"
+                },
+                {
+                        "cwbIndex": "6700800",
+                        "name": "下營區"
+                },
+                {
+                        "cwbIndex": "6700400",
+                        "name": "柳營區"
+                },
+                {
+                        "cwbIndex": "6700200",
+                        "name": "鹽水區"
+                },
+                {
+                        "cwbIndex": "6701900",
+                        "name": "善化區"
+                },
+                {
+                        "cwbIndex": "6702000",
+                        "name": "新市區"
+                },
+                {
+                        "cwbIndex": "6701100",
+                        "name": "大內區"
+                },
+                {
+                        "cwbIndex": "6702200",
+                        "name": "山上區"
+                },
+                {
+                        "cwbIndex": "6702100",
+                        "name": "安定區"
+                }
+        ],
+        "name": "台南市"
+    },
+    {
+        "districts": [
+            {
+                "cwbIndex": "0000",
+                "name": "高雄市全區"
+            },
+            {
+                       "cwbIndex": "6400600",
+                       "name": "新興區"
+               },
+               {
+                       "cwbIndex": "6400700",
+                       "name": "前金區"
+               },
+               {
+                       "cwbIndex": "6400800",
+                       "name": "苓雅區"
+               },
+               {
+                       "cwbIndex": "6400100",
+                       "name": "鹽埕區"
+               },
+               {
+                       "cwbIndex": "6400200",
+                       "name": "鼓山區"
+               },
+               {
+                       "cwbIndex": "6401000",
+                       "name": "旗津區"
+               },
+               {
+                       "cwbIndex": "6400900",
+                       "name": "前鎮區"
+               },
+               {
+                       "cwbIndex": "6400500",
+                       "name": "三民區"
+               },
+               {
+                       "cwbIndex": "6400400",
+                       "name": "楠梓區"
+               },
+               {
+                       "cwbIndex": "6401100",
+                       "name": "小港區"
+               },
+               {
+                       "cwbIndex": "6400300",
+                       "name": "左營區"
+               },
+               {
+                       "cwbIndex": "6401700",
+                       "name": "仁武區"
+               },
+               {
+                       "cwbIndex": "6401600",
+                       "name": "大社區"
+               },
+               {
+                       "cwbIndex": "6401900",
+                       "name": "岡山區"
+               },
+               {
+                       "cwbIndex": "6402400",
+                       "name": "路竹區"
+               },
+               {
+                       "cwbIndex": "6402300",
+                       "name": "阿蓮區"
+               },
+               {
+                       "cwbIndex": "6402200",
+                       "name": "田寮區"
+               },
+               {
+                       "cwbIndex": "6402100",
+                       "name": "燕巢區"
+               },
+               {
+                       "cwbIndex": "6402000",
+                       "name": "橋頭區"
+               },
+               {
+                       "cwbIndex": "6402900",
+                       "name": "梓官區"
+               },
+               {
+                       "cwbIndex": "6402800",
+                       "name": "彌陀區"
+               },
+               {
+                       "cwbIndex": "6402700",
+                       "name": "永安區"
+               },
+               {
+                       "cwbIndex": "6402500",
+                       "name": "湖內區"
+               },
+               {
+                       "cwbIndex": "6401200",
+                       "name": "鳳山區"
+               },
+               {
+                       "cwbIndex": "6401400",
+                       "name": "大寮區"
+               },
+               {
+                       "cwbIndex": "6401300",
+                       "name": "林園區"
+               },
+               {
+                       "cwbIndex": "6401800",
+                       "name": "鳥松區"
+               },
+               {
+                       "cwbIndex": "6401500",
+                       "name": "大樹區"
+               },
+               {
+                       "cwbIndex": "6403000",
+                       "name": "旗山區"
+               },
+               {
+                       "cwbIndex": "6403100",
+                       "name": "美濃區"
+               },
+               {
+                       "cwbIndex": "6403200",
+                       "name": "六龜區"
+               },
+               {
+                       "cwbIndex": "6403500",
+                       "name": "內門區"
+               },
+               {
+                       "cwbIndex": "6403400",
+                       "name": "杉林區"
+               },
+               {
+                       "cwbIndex": "6403300",
+                       "name": "甲仙區"
+               },
+               {
+                       "cwbIndex": "6403700",
+                       "name": "桃源區"
+               },
+               {
+                       "cwbIndex": "6403800",
+                       "name": "那瑪夏區"
+               },
+               {
+                       "cwbIndex": "6403600",
+                       "name": "茂林區"
+               },
+               {
+                       "cwbIndex": "6402600",
+                       "name": "茄萣區"
+               }
+        ],
+        "name": "高雄市"
+    },
+    {
+        "districts": [
+            {
+                "cwbIndex": "0000",
+                "name": "屏東縣全區"
+            },
+            {
+                        "cwbIndex": "1001301",
+                        "name": "屏東市"
+                },
+                {
+                        "cwbIndex": "1001326",
+                        "name": "三地門鄉"
+                },
+                {
+                        "cwbIndex": "1001327",
+                        "name": "霧台鄉"
+                },
+                {
+                        "cwbIndex": "1001328",
+                        "name": "瑪家鄉"
+                },
+                {
+                        "cwbIndex": "1001308",
+                        "name": "九如鄉"
+                },
+                {
+                        "cwbIndex": "1001309",
+                        "name": "里港鄉"
+                },
+                {
+                        "cwbIndex": "1001311",
+                        "name": "高樹鄉"
+                },
+                {
+                        "cwbIndex": "1001310",
+                        "name": "鹽埔鄉"
+                },
+                {
+                        "cwbIndex": "1001306",
+                        "name": "長治鄉"
+                },
+                {
+                        "cwbIndex": "1001307",
+                        "name": "麟洛鄉"
+                },
+                {
+                        "cwbIndex": "1001314",
+                        "name": "竹田鄉"
+                },
+                {
+                        "cwbIndex": "1001313",
+                        "name": "內埔鄉"
+                },
+                {
+                        "cwbIndex": "1001305",
+                        "name": "萬丹鄉"
+                },
+                {
+                        "cwbIndex": "1001302",
+                        "name": "潮州鎮"
+                },
+                {
+                        "cwbIndex": "1001329",
+                        "name": "泰武鄉"
+                },
+                {
+                        "cwbIndex": "1001330",
+                        "name": "來義鄉"
+                },
+                {
+                        "cwbIndex": "1001312",
+                        "name": "萬巒鄉"
+                },
+                {
+                        "cwbIndex": "1001318",
+                        "name": "崁頂鄉"
+                },
+                {
+                        "cwbIndex": "1001315",
+                        "name": "新埤鄉"
+                },
+                {
+                        "cwbIndex": "1001320",
+                        "name": "南州鄉"
+                },
+                {
+                        "cwbIndex": "1001319",
+                        "name": "林邊鄉"
+                },
+                {
+                        "cwbIndex": "1001303",
+                        "name": "東港鎮"
+                },
+                {
+                        "cwbIndex": "1001322",
+                        "name": "琉球鄉"
+                },
+                {
+                        "cwbIndex": "1001321",
+                        "name": "佳冬鄉"
+                },
+                {
+                        "cwbIndex": "1001317",
+                        "name": "新園鄉"
+                },
+                {
+                        "cwbIndex": "1001316",
+                        "name": "枋寮鄉"
+                },
+                {
+                        "cwbIndex": "1001325",
+                        "name": "枋山鄉"
+                },
+                {
+                        "cwbIndex": "1001331",
+                        "name": "春日鄉"
+                },
+                {
+                        "cwbIndex": "1001332",
+                        "name": "獅子鄉"
+                },
+                {
+                        "cwbIndex": "1001323",
+                        "name": "車城鄉"
+                },
+                {
+                        "cwbIndex": "1001333",
+                        "name": "牡丹鄉"
+                },
+                {
+                        "cwbIndex": "1001304",
+                        "name": "恆春鎮"
+                },
+                {
+                        "cwbIndex": "1001324",
+                        "name": "滿州鄉"
+                }
+        ],
+        "name": "屏東縣"
+    },
+    {
+        "districts": [
+            {
+                "cwbIndex": "0000",
+                "name": "宜蘭縣全區"
+            },
+            {
+                        "cwbIndex": "1000201",
+                        "name": "宜蘭市"
+                },
+                {
+                        "cwbIndex": "1000206",
+                        "name": "壯圍鄉"
+                },
+                {
+                        "cwbIndex": "1000204",
+                        "name": "頭城鎮"
+                },
+                {
+                        "cwbIndex": "1000205",
+                        "name": "礁溪鄉"
+                },
+                {
+                        "cwbIndex": "1000207",
+                        "name": "員山鄉"
+                },
+                {
+                        "cwbIndex": "1000202",
+                        "name": "羅東鎮"
+                },
+                {
+                        "cwbIndex": "1000210",
+                        "name": "三星鄉"
+                },
+                {
+                        "cwbIndex": "1000211",
+                        "name": "大同鄉"
+                },
+                {
+                        "cwbIndex": "1000209",
+                        "name": "五結鄉"
+                },
+                {
+                        "cwbIndex": "1000208",
+                        "name": "冬山鄉"
+                },
+                {
+                        "cwbIndex": "1000203",
+                        "name": "蘇澳鎮"
+                },
+                {
+                        "cwbIndex": "1000212",
+                        "name": "南澳鄉"
+                }
+        ],
+        "name": "宜蘭縣"
+    },
+    {
+        "districts": [
+            {
+                "cwbIndex": "0000",
+                "name": "花蓮縣全區"
+            },
+            {
+                        "cwbIndex": "1001501",
+                        "name": "花蓮市"
+                },
+                {
+                        "cwbIndex": "1001504",
+                        "name": "新城鄉"
+                },
+                {
+                        "cwbIndex": "1001511",
+                        "name": "秀林鄉"
+                },
+                {
+                        "cwbIndex": "1001505",
+                        "name": "吉安鄉"
+                },
+                {
+                        "cwbIndex": "1001506",
+                        "name": "壽豐鄉"
+                },
+                {
+                        "cwbIndex": "1001502",
+                        "name": "鳳林鎮"
+                },
+                {
+                        "cwbIndex": "1001507",
+                        "name": "光復鄉"
+                },
+                {
+                        "cwbIndex": "1001508",
+                        "name": "豐濱鄉"
+                },
+                {
+                        "cwbIndex": "1001509",
+                        "name": "瑞穗鄉"
+                },
+                {
+                        "cwbIndex": "1001512",
+                        "name": "萬榮鄉"
+                },
+                {
+                        "cwbIndex": "1001503",
+                        "name": "玉里鎮"
+                },
+                {
+                        "cwbIndex": "1001513",
+                        "name": "卓溪鄉"
+                },
+                {
+                        "cwbIndex": "1001510",
+                        "name": "富里鄉"
+                }
+        ],
+        "name": "花蓮縣"
+    },
+    {
+        "districts": [
+            {
+                "cwbIndex": "0000",
+                "name": "台東縣全區"
+            },
+            {
+                        "cwbIndex": "1001401",
+                        "name": "台東市"
+                },
+                {
+                        "cwbIndex": "1001411",
+                        "name": "綠島鄉"
+                },
+                {
+                        "cwbIndex": "1001416",
+                        "name": "蘭嶼鄉"
+                },
+                {
+                        "cwbIndex": "1001413",
+                        "name": "延平鄉"
+                },
+                {
+                        "cwbIndex": "1001404",
+                        "name": "卑南鄉"
+                },
+                {
+                        "cwbIndex": "1001405",
+                        "name": "鹿野鄉"
+                },
+                {
+                        "cwbIndex": "1001403",
+                        "name": "關山鎮"
+                },
+                {
+                        "cwbIndex": "1001412",
+                        "name": "海端鄉"
+                },
+                {
+                        "cwbIndex": "1001406",
+                        "name": "池上鄉"
+                },
+                {
+                        "cwbIndex": "1001407",
+                        "name": "東河鄉"
+                },
+                {
+                        "cwbIndex": "1001402",
+                        "name": "成功鎮"
+                },
+                {
+                        "cwbIndex": "1001408",
+                        "name": "長濱鄉"
+                },
+                {
+                        "cwbIndex": "1001409",
+                        "name": "太麻里鄉"
+                },
+                {
+                        "cwbIndex": "1001414",
+                        "name": "金峰鄉"
+                },
+                {
+                        "cwbIndex": "1001410",
+                        "name": "大武鄉"
+                },
+                {
+                        "cwbIndex": "1001415",
+                        "name": "達仁鄉"
+                }
+        ],
+        "name": "台東縣"
+    },
+    {
+        "districts": [
+            {
+                "cwbIndex": "0000",
+                "name": "澎湖縣全區"
+            },
+            {
+                        "cwbIndex": "1001601",
+                        "name": "馬公市"
+                },
+                {
+                        "cwbIndex": "1001604",
+                        "name": "西嶼鄉"
+                },
+                {
+                        "cwbIndex": "1001605",
+                        "name": "望安鄉"
+                },
+                {
+                        "cwbIndex": "1001606",
+                        "name": "七美鄉"
+                },
+                {
+                        "cwbIndex": "1001603",
+                        "name": "白沙鄉"
+                },
+                {
+                        "cwbIndex": "1001602",
+                        "name": "湖西鄉"
+                }
+
+        ],
+        "name": "澎湖縣"
+    },
+    {
+        "districts": [
+            {
+                "cwbIndex": "0000",
+                "name": "金門縣全區"
+            },
+            {
+                        "cwbIndex": "0902002",
+                        "name": "金沙鎮"
+                },
+                {
+                        "cwbIndex": "0902003",
+                        "name": "金湖鎮"
+                },
+                {
+                        "cwbIndex": "0902004",
+                        "name": "金寧鄉"
+                },
+                {
+                        "cwbIndex": "0902001",
+                        "name": "金城鎮"
+                },
+                {
+                        "cwbIndex": "0902005",
+                        "name": "烈嶼鄉"
+                },
+                {
+                        "cwbIndex": "0902006",
+                        "name": "烏坵鄉"
+                }
+        ],
+        "name": "金門縣"
+    },
+    {
+        "districts": [
+            {
+                "cwbIndex": "0000",
+                "name": "連江縣全區"
+            },
+            {
+                "cwbIndex": "0900701",
+                "name": "南竿鄉"
+            },
+            {
+                "cwbIndex": "0900702",
+                "name": "北竿鄉"
+            },
+            {
+                "cwbIndex": "0900703",
+                "name": "莒光鄉"
+            },
+            {
+                "cwbIndex": "0900704",
+                "name": "東引鄉"
+            }
+        ],
+        "name": "連江縣"
+    }
+]

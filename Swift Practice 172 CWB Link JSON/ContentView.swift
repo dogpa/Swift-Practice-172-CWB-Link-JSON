@@ -8,9 +8,13 @@
 import SwiftUI
 
 struct ContentView: View {
+    @StateObject var vm = ConvertViewModel()
     var body: some View {
         Text("Hello, world!")
             .padding()
+            .onAppear {
+                vm.decodeJSON()
+            }
     }
 }
 

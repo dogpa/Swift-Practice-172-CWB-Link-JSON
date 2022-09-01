@@ -11,6 +11,11 @@
 		2D054FEE28BEE59100945232 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D054FED28BEE59100945232 /* ContentView.swift */; };
 		2D054FF028BEE59300945232 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2D054FEF28BEE59300945232 /* Assets.xcassets */; };
 		2D054FF328BEE59300945232 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2D054FF228BEE59300945232 /* Preview Assets.xcassets */; };
+		2D054FFA28BEE5CC00945232 /* taiwanDistrictsZip AndName.json in Resources */ = {isa = PBXBuildFile; fileRef = 2D054FF928BEE5CC00945232 /* taiwanDistrictsZip AndName.json */; };
+		2D054FFC28BEE5DE00945232 /* ConvertCWBInfoFromChrome.json in Resources */ = {isa = PBXBuildFile; fileRef = 2D054FFB28BEE5DE00945232 /* ConvertCWBInfoFromChrome.json */; };
+		2D054FFE28BEE5F100945232 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D054FFD28BEE5F100945232 /* Model.swift */; };
+		2D05500028BEE78E00945232 /* ConvertViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D054FFF28BEE78E00945232 /* ConvertViewModel.swift */; };
+		2D05500A28C0CACF00945232 /* taiwanCampingDistrictsWithCWBID.json in Resources */ = {isa = PBXBuildFile; fileRef = 2D05500928C0CACF00945232 /* taiwanCampingDistrictsWithCWBID.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +24,11 @@
 		2D054FED28BEE59100945232 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2D054FEF28BEE59300945232 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2D054FF228BEE59300945232 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2D054FF928BEE5CC00945232 /* taiwanDistrictsZip AndName.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "taiwanDistrictsZip AndName.json"; sourceTree = "<group>"; };
+		2D054FFB28BEE5DE00945232 /* ConvertCWBInfoFromChrome.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ConvertCWBInfoFromChrome.json; sourceTree = "<group>"; };
+		2D054FFD28BEE5F100945232 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		2D054FFF28BEE78E00945232 /* ConvertViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConvertViewModel.swift; sourceTree = "<group>"; };
+		2D05500928C0CACF00945232 /* taiwanCampingDistrictsWithCWBID.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = taiwanCampingDistrictsWithCWBID.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +45,9 @@
 		2D054FDF28BEE59100945232 = {
 			isa = PBXGroup;
 			children = (
+				2D054FF928BEE5CC00945232 /* taiwanDistrictsZip AndName.json */,
+				2D054FFB28BEE5DE00945232 /* ConvertCWBInfoFromChrome.json */,
+				2D05500928C0CACF00945232 /* taiwanCampingDistrictsWithCWBID.json */,
 				2D054FEA28BEE59100945232 /* Swift Practice 172 CWB Link JSON */,
 				2D054FE928BEE59100945232 /* Products */,
 			);
@@ -55,6 +68,8 @@
 				2D054FED28BEE59100945232 /* ContentView.swift */,
 				2D054FEF28BEE59300945232 /* Assets.xcassets */,
 				2D054FF128BEE59300945232 /* Preview Content */,
+				2D054FFD28BEE5F100945232 /* Model.swift */,
+				2D054FFF28BEE78E00945232 /* ConvertViewModel.swift */,
 			);
 			path = "Swift Practice 172 CWB Link JSON";
 			sourceTree = "<group>";
@@ -125,6 +140,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2D05500A28C0CACF00945232 /* taiwanCampingDistrictsWithCWBID.json in Resources */,
+				2D054FFC28BEE5DE00945232 /* ConvertCWBInfoFromChrome.json in Resources */,
+				2D054FFA28BEE5CC00945232 /* taiwanDistrictsZip AndName.json in Resources */,
 				2D054FF328BEE59300945232 /* Preview Assets.xcassets in Resources */,
 				2D054FF028BEE59300945232 /* Assets.xcassets in Resources */,
 			);
@@ -137,7 +155,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2D054FFE28BEE5F100945232 /* Model.swift in Sources */,
 				2D054FEE28BEE59100945232 /* ContentView.swift in Sources */,
+				2D05500028BEE78E00945232 /* ConvertViewModel.swift in Sources */,
 				2D054FEC28BEE59100945232 /* Swift_Practice_172_CWB_Link_JSONApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
